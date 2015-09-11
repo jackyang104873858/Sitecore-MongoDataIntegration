@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.MongoDataIntegration", "Sitecore.MongoDataIntegration\Sitecore.MongoDataIntegration.csproj", "{3BA115A6-E309-4D22-ACE7-FA763F37133D}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDS.Master", "TDS.Master\TDS.Master.scproj", "{F40537A1-57D8-4123-99D3-701F26341EB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{9255F400-9121-473A-88E7-64B4E1BD94F4}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA115A6-E309-4D22-ACE7-FA763F37133D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA115A6-E309-4D22-ACE7-FA763F37133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA115A6-E309-4D22-ACE7-FA763F37133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA115A6-E309-4D22-ACE7-FA763F37133D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40537A1-57D8-4123-99D3-701F26341EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40537A1-57D8-4123-99D3-701F26341EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40537A1-57D8-4123-99D3-701F26341EB3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F40537A1-57D8-4123-99D3-701F26341EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40537A1-57D8-4123-99D3-701F26341EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40537A1-57D8-4123-99D3-701F26341EB3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

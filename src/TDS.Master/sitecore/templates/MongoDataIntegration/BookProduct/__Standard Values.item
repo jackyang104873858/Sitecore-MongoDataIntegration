@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {0582C089-5ACC-466C-AD65-CE0FCA6CD82D}
+database: master
+path: /sitecore/templates/MongoDataIntegration/BookProduct/__Standard Values
+parent: {772A967B-DC9C-4866-83B5-572C6497A80E}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {772A967B-DC9C-4866-83B5-572C6497A80E}
+templatekey: BookProduct
+
+----field----
+field: {C9283D9E-7C29-4419-9C28-5A5C8FF53E84}
+name: __Bucketable
+key: __bucketable
+content-length: 1
+
+1
+----version----
+language: en
+version: 1
+revision: ae09d8bd-4dbe-416b-9892-71dc29f252af
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150911T193609Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ae09d8bd-4dbe-416b-9892-71dc29f252af
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150911T193901Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
